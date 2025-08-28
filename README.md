@@ -1,12 +1,12 @@
-# 👋 Welcome to My GitHub Profile!
+#  Welcome to My GitHub Profile!
 
 Hi, I'm **Sajad Khajeh**, an AI enthusiast and junior developer exploring the world of **NLP**, **machine learning**, and **generative AI**. I love turning ideas into simple AI-powered tools using Python, Streamlit, and Hugging Face.
 
 ---
 
-## 🚀 My Latest AI Project
+##  My Latest AI Project
 
-### 🔹 [📝 Text Summarizer App (Live Demo)](https://text-summarize-6azejn3verud7qccdols69.streamlit.app/)
+###  [ Text Summarizer App (Live Demo)](https://text-summarize-6azejn3verud7qccdols69.streamlit.app/)
 
 > A simple and clean web app built with **Streamlit** and **Hugging Face Transformers**.  
 > Paste any long text, click one button, and get a smart summary — instantly!
