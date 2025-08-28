@@ -16,10 +16,10 @@ Hi, I'm **Sajad Khajeh**, an AI enthusiast and junior developer exploring the wo
 
 ---
 
-## 🧰 Tools & Technologies I Use
+##  Tools & Technologies I Use
 
-- Python 🐍  
-- Streamlit ⚡  
+- Python  
+- Streamlit   
 - Hugging Face 🤗  
 - Git & GitHub  
 - Google Colab  
@@ -27,20 +27,20 @@ Hi, I'm **Sajad Khajeh**, an AI enthusiast and junior developer exploring the wo
 
 ---
 
-## 📌 My Learning Goals
+##  My Learning Goals
 
 - Building more real-world AI tools  
 - Improving API integrations (OpenAI, HF, etc.)  
 - Freelancing on platforms like Upwork and Fiverr  
-- Collaborating with the AI community 🚀
+- Collaborating with the AI community 
 
 ---
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
-- Email: **your_email@example.com**  
+- Email: **sajadkhajehnamaghi@gmail.com**  
 - GitHub: [github.com/sajadkhaj](https://github.com/sajadkhaj)  
-- LinkedIn: *(Add your LinkedIn if you want)*
+- LinkedIn: *(SAJAD KHAJEHNAMAGHI)*
 
 ---
 
